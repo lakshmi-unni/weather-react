@@ -1,0 +1,29 @@
+#place {
+  width: 80%;
+  margin-left: 10%;
+}
+
+#content {
+  color: rgb(77, 75, 75);
+  margin: auto;
+}
+
+#findButton {
+  width: 40%;
+}
+
+body {
+  background-image: url("https://nordicapis.com/wp-content/uploads/How-to-Build-an-API-Driven-Weather-App.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+#head {
+  color: rgb(85, 85, 84);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.alert{
+  background-color: rgba(66, 68, 90, 0.5);
+  color: rgb(241, 242, 241);
+}
